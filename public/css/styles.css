@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans:300,300i,400,400i,500,500i,700,700i');
+#logo{
+      font-family: 'Fira Sans', sans-serif;
+      font-weight: 600;
+      font-size: 46px;
+      color:white;
+      margin-right: 20px;
+}
+
+.inscription{
+  color:white;
+  font-size: 24px;
+}
+.marges{
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+#toto{
+background-color: Black;
+margin-left:0px;
+margin-right: 0px;
+  padding: 20px;
+}
+/*************menu*******************************/
+#navMenu{
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+#navSousMenu {
+  font-size: 18px;
+    font-family: 'Fira Sans', sans-serif;
+  margin-right: 20px;}
+}
+#navSousMenu li a{
+  margin-right: 20px;
+}
+#navSousMenu a:hover{
+
+}
+
+
+.navbar-nav{color:white;}
+.navbar-nav, .dropdown, .dropdown-menu li a{
+font-size: 18px;
+  font-family: 'Fira Sans', sans-serif;
+}
+
+/***slide***********************/
+.carousel-caption h1{
+  font-weight: 400;
+  font-size: 48px;
+  color:white;
+}
+/*************************************************/
+/******Main hotels******************************/
+#dernierHotel{
+margin-top: 30px;
+
+}
+#dernierHotel h1{
+  margin-top:5px;
+  font-family: 'Fira Sans', sans-serif;
+}
+
+#hotelListe ul{
+/*margin: 0px;
+padding-left: 0px;*/
+}
+#hotelListe ul li{
+list-style: none;
+text-decoration:none;
+}
+#hotelListe {
+/*margin: 0px;*/
+padding:7px;
+}
+#hotelListe span {
+  color:#dec048;
+}
+
+#dernierCommentaire{
+  padding: 10px;
+  margin-top: 30px;
+
+}
+/***************************/
+.list-group-item span{
+  width: 50px;
+  height: 50px;
+  color:white;
+  padding: 5px;
+  font-size: 36px;
+  text-align: center;
+  vertical-align: middle;
+  background-color: #dec048;
+  float: left;
+  margin-right: 20px;
+}
+/***********HOTEL 1 corententia***************************************/
+
+#visuelHotel{
+background-image: url("../img/hotel/corinthiahotelbudapest/1.jpg");
+background-repeat: no-repeat;
+background-position: top center;
+background-size: cover;
+background-color: black;
+height: 550px;
+
+
+}
